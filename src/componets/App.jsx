@@ -1,3 +1,4 @@
+// proyecto desarrollado por keyner de la hoz
 import Favicon from '../componets/Favicon.png'
 
 export const Body = () => {
